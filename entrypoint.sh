@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 i=1
 max=100
